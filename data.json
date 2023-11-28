@@ -1,0 +1,3247 @@
+{
+	"data": [
+		{
+			"id": 22770848,
+			"name": "Fabiano",
+			"first_interaction_at": "2023-11-24T20:17:11.000000Z",
+			"last_interaction_at": "2023-11-24T20:17:11.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "manual",
+			"flow": "web",
+			"contact": {
+				"id": 21988506,
+				"name": null,
+				"email": null,
+				"id_number": null,
+				"phone": "61981670800",
+				"cellphone": "61981670800",
+				"cellphone_is_valid": true,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58011,
+					"name": "Lara Encantandora | Fiat BSB"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58011,
+				"name": "Lara Encantandora | Fiat BSB"
+			},
+			"location": {
+				"id": 11923,
+				"name": "01 Fiat | 01 BSB"
+			},
+			"salesman": {
+				"id": 57807,
+				"name": "VN Ageu | Fiat BSB"
+			},
+			"interests": {
+				"interest_1": {
+					"id": 60905,
+					"name": "VN",
+					"required": null
+				},
+				"interest_2": {
+					"id": 61022,
+					"name": "01 FIAT",
+					"required": null
+				},
+				"interest_3": {
+					"id": 60896,
+					"name": "MOBI",
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "Prospecção",
+				"medium": null,
+				"campaign": null,
+				"term": null,
+				"format": null
+			},
+			"legal_bases": {
+				"processing": {
+					"id": 1,
+					"name": "consent",
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": false
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60269904,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-29T20:17:00.000000Z",
+				"reason": {
+					"id": 36349,
+					"name": "4. Negociação - atualizar",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": null,
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T20:16:20.000000Z",
+			"updated_at": "2023-11-24T20:17:11.000000Z"
+		},
+		{
+			"id": 22770667,
+			"name": "Maysa Silva",
+			"first_interaction_at": "2023-11-24T20:24:13.000000Z",
+			"last_interaction_at": "2023-11-24T20:24:13.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "Proposta novos - Envio de Uma solicitação de proposta novos",
+			"flow": "web",
+			"contact": {
+				"id": 21988350,
+				"name": null,
+				"email": "maysacabral37@gmail.com",
+				"id_number": null,
+				"phone": "+55 (66) 98446-4268",
+				"cellphone": null,
+				"cellphone_is_valid": null,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58011,
+					"name": "Lara Encantandora | Fiat BSB"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58011,
+				"name": "Lara Encantandora | Fiat BSB"
+			},
+			"location": null,
+			"salesman": null,
+			"interests": {
+				"interest_1": {
+					"id": null,
+					"name": "Veículos novos - Proposta novos",
+					"required": null
+				},
+				"interest_2": {
+					"id": null,
+					"name": "Fiat",
+					"required": null
+				},
+				"interest_3": {
+					"id": null,
+					"name": "Mobi Trekking 1.0 Flex 4P 2024",
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "Orgânico",
+				"medium": null,
+				"campaign": null,
+				"term": null,
+				"format": null
+			},
+			"legal_bases": {
+				"processing": {
+					"id": null,
+					"name": null,
+					"opt_in": true
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": true
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60270406,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-27T20:24:00.000000Z",
+				"reason": {
+					"id": 36341,
+					"name": "1. Conexão - 2º tentativa",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": "; Nome do veiculo: Mobi; Página de detalhes do veículo: http://primaviafiat.com.br/novos/modelo/fiat-mobi; Modelo em estoque: Mobi; Preço: undefined; Ano: 2024; Itens de série: - Altura (mm): 1.523 - Largura (mm): 1.666 - Comprimento (mm): 3.596 - Entre-eixos (mm): 2.304 - Peso (kg): 969 - Tanque (L): 47 - Porta-malas (L): 200 - Ocupantes: 5 - Suspensão dianteira: Independente, McPherson e mola helicoidal - Suspensão traseira: Eixo de torção e molas helicoidal - Câmbio: Manual de 5 marchas - Tração: Dianteira - Direção: Hidráulica - Freios: Disco ventilado, tambor - Combustível: Flex (álcool/gasolina) - Velocidade máxima (Km/h): 152 - Potência - Álcool (cv): 74 - Potência - Gasolina (cv): 71 - Torque - Álcool (kgf.m): 9,7 - Torque - Gasolina (kgf.m): 9,3 - Motorização: 1.0 - Consumo cidade (Km/L) (Álcool): 9,6 - Consumo cidade (Km/L) (Gasolina): 13,5 - Consumo estrada (Km/L) (Álcool): 10,4 - Consumo estrada (Km/L) (Gasolina): 15 - Aceleração 0-100 Km/h (s): 14,9",
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T20:05:19.000000Z",
+			"updated_at": "2023-11-24T20:24:13.000000Z"
+		},
+		{
+			"id": 22770552,
+			"name": "Eichler",
+			"first_interaction_at": "2023-11-24T19:59:37.000000Z",
+			"last_interaction_at": "2023-11-24T19:59:37.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "manual",
+			"flow": "web",
+			"contact": {
+				"id": 21988248,
+				"name": null,
+				"email": null,
+				"id_number": null,
+				"phone": "61 98529-6888",
+				"cellphone": "619 8529-6888",
+				"cellphone_is_valid": true,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58011,
+					"name": "Lara Encantandora | Fiat BSB"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58011,
+				"name": "Lara Encantandora | Fiat BSB"
+			},
+			"location": {
+				"id": 11923,
+				"name": "01 Fiat | 01 BSB"
+			},
+			"salesman": null,
+			"interests": {
+				"interest_1": {
+					"id": 60905,
+					"name": "VN",
+					"required": null
+				},
+				"interest_2": {
+					"id": 61022,
+					"name": "01 FIAT",
+					"required": null
+				},
+				"interest_3": {
+					"id": 60892,
+					"name": "FASTBACK",
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "Prospecção",
+				"medium": null,
+				"campaign": null,
+				"term": null,
+				"format": null
+			},
+			"legal_bases": {
+				"processing": {
+					"id": 1,
+					"name": "consent",
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": false
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60268641,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-28T19:59:00.000000Z",
+				"reason": {
+					"id": 36341,
+					"name": "1. Conexão - 2º tentativa",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": null,
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T19:58:47.000000Z",
+			"updated_at": "2023-11-24T19:59:37.000000Z"
+		},
+		{
+			"id": 22770124,
+			"name": "Juba",
+			"first_interaction_at": "2023-11-24T19:35:54.000000Z",
+			"last_interaction_at": "2023-11-24T19:35:54.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "PhoneTrack",
+			"flow": "web",
+			"contact": {
+				"id": 21987864,
+				"name": null,
+				"email": null,
+				"id_number": null,
+				"phone": "(61) 98127-5997",
+				"cellphone": "(61) 98127-5997",
+				"cellphone_is_valid": true,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58011,
+					"name": "Lara Encantandora | Fiat BSB"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58011,
+				"name": "Lara Encantandora | Fiat BSB"
+			},
+			"location": {
+				"id": 11923,
+				"name": "01 Fiat | 01 BSB"
+			},
+			"salesman": {
+				"id": 57805,
+				"name": "VD Everton Barbosa | Fiat Bsb"
+			},
+			"interests": {
+				"interest_1": {
+					"id": 60904,
+					"name": "VD",
+					"required": null
+				},
+				"interest_2": {
+					"id": 61022,
+					"name": "01 FIAT",
+					"required": null
+				},
+				"interest_3": {
+					"id": 60898,
+					"name": "STRADA",
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "PhoneTrack",
+				"medium": "Google Meu Negócio",
+				"campaign": "DDM - Call Tracking",
+				"term": null,
+				"format": "Orgânico"
+			},
+			"legal_bases": {
+				"processing": {
+					"id": 1,
+					"name": "consent",
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": false
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60266694,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-25T13:00:00.000000Z",
+				"reason": {
+					"id": 36341,
+					"name": "1. Conexão - 2º tentativa",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": null,
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T19:33:48.000000Z",
+			"updated_at": "2023-11-24T19:35:55.000000Z"
+		},
+		{
+			"id": 22770022,
+			"name": "Valdim",
+			"first_interaction_at": "2023-11-24T19:41:46.000000Z",
+			"last_interaction_at": "2023-11-24T19:41:46.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "Pagina de Ofertas",
+			"flow": "web",
+			"contact": {
+				"id": 21987781,
+				"name": null,
+				"email": "Valdimrocha3@gmail.com",
+				"id_number": null,
+				"phone": "(77) 99986-1350",
+				"cellphone": null,
+				"cellphone_is_valid": null,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58008,
+					"name": "Wesllayne | FIAT BSB"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58008,
+				"name": "Wesllayne | FIAT BSB"
+			},
+			"location": null,
+			"salesman": null,
+			"interests": {
+				"interest_1": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_2": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_3": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "google ads",
+				"medium": "display",
+				"campaign": "152263079717",
+				"term": null,
+				"format": "projeto-auto"
+			},
+			"legal_bases": {
+				"processing": {
+					"id": null,
+					"name": null,
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": null
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60267195,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-27T16:41:00.000000Z",
+				"reason": {
+					"id": 36341,
+					"name": "1. Conexão - 2º tentativa",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": "Cliente Primavia, interessado em carro - Modelo: Argo",
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T19:26:50.000000Z",
+			"updated_at": "2023-11-24T19:41:46.000000Z"
+		},
+		{
+			"id": 22769876,
+			"name": "Mariana",
+			"first_interaction_at": "2023-11-24T19:17:21.000000Z",
+			"last_interaction_at": "2023-11-24T19:17:21.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "manual",
+			"flow": "web",
+			"contact": {
+				"id": 21987653,
+				"name": null,
+				"email": null,
+				"id_number": null,
+				"phone": "5583999899710",
+				"cellphone": "5583999899710",
+				"cellphone_is_valid": true,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58011,
+					"name": "Lara Encantandora | Fiat BSB"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58011,
+				"name": "Lara Encantandora | Fiat BSB"
+			},
+			"location": {
+				"id": 11923,
+				"name": "01 Fiat | 01 BSB"
+			},
+			"salesman": null,
+			"interests": {
+				"interest_1": {
+					"id": 60905,
+					"name": "VN",
+					"required": null
+				},
+				"interest_2": {
+					"id": 61022,
+					"name": "01 FIAT",
+					"required": null
+				},
+				"interest_3": {
+					"id": 62536,
+					"name": "Novos - iNDECISÃO CLIENTE",
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "SITE PRIMAVIA",
+				"medium": null,
+				"campaign": null,
+				"term": null,
+				"format": null
+			},
+			"legal_bases": {
+				"processing": {
+					"id": 1,
+					"name": "consent",
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": false
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60265020,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-25T19:17:00.000000Z",
+				"reason": {
+					"id": 36341,
+					"name": "1. Conexão - 2º tentativa",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": null,
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T19:16:29.000000Z",
+			"updated_at": "2023-11-24T19:17:21.000000Z"
+		},
+		{
+			"id": 22769830,
+			"name": "Isaque",
+			"first_interaction_at": "2023-11-24T19:14:32.000000Z",
+			"last_interaction_at": "2023-11-24T19:14:32.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "manual",
+			"flow": "web",
+			"contact": {
+				"id": 21987616,
+				"name": null,
+				"email": null,
+				"id_number": null,
+				"phone": "61 99913-3191",
+				"cellphone": "61 99913-3191",
+				"cellphone_is_valid": true,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58011,
+					"name": "Lara Encantandora | Fiat BSB"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58011,
+				"name": "Lara Encantandora | Fiat BSB"
+			},
+			"location": {
+				"id": 11923,
+				"name": "01 Fiat | 01 BSB"
+			},
+			"salesman": {
+				"id": 58005,
+				"name": "VU Arthur Gabriel | Fiat BSB"
+			},
+			"interests": {
+				"interest_1": {
+					"id": 60906,
+					"name": "VU",
+					"required": null
+				},
+				"interest_2": {
+					"id": 60903,
+					"name": "20 SEMINOVOS",
+					"required": null
+				},
+				"interest_3": {
+					"id": 60902,
+					"name": "SEMINOVOS",
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "WebMotors",
+				"medium": null,
+				"campaign": null,
+				"term": null,
+				"format": null
+			},
+			"legal_bases": {
+				"processing": {
+					"id": 1,
+					"name": "consent",
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": false
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60264730,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-24T21:00:00.000000Z",
+				"reason": {
+					"id": 36770,
+					"name": "2. Agendamento - Visita Showroom - cliente virá à loja",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": null,
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T19:13:52.000000Z",
+			"updated_at": "2023-11-24T19:14:32.000000Z"
+		},
+		{
+			"id": 22769772,
+			"name": "Benedito",
+			"first_interaction_at": "2023-11-24T19:11:25.000000Z",
+			"last_interaction_at": "2023-11-24T19:11:25.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "manual",
+			"flow": "web",
+			"contact": {
+				"id": 21987560,
+				"name": null,
+				"email": null,
+				"id_number": null,
+				"phone": null,
+				"cellphone": "61996740196",
+				"cellphone_is_valid": true,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58009,
+					"name": "Isabelle Encantadora | FIAT BSB"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58009,
+				"name": "Isabelle Encantadora | FIAT BSB"
+			},
+			"location": {
+				"id": 11923,
+				"name": "01 Fiat | 01 BSB"
+			},
+			"salesman": {
+				"id": 57805,
+				"name": "VD Everton Barbosa | Fiat Bsb"
+			},
+			"interests": {
+				"interest_1": {
+					"id": 60904,
+					"name": "VD",
+					"required": null
+				},
+				"interest_2": {
+					"id": 61022,
+					"name": "01 FIAT",
+					"required": null
+				},
+				"interest_3": {
+					"id": 60898,
+					"name": "STRADA",
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "SITE PRIMAVIA",
+				"medium": null,
+				"campaign": null,
+				"term": null,
+				"format": null
+			},
+			"legal_bases": {
+				"processing": {
+					"id": 1,
+					"name": "consent",
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": false
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60264462,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-24T20:10:00.000000Z",
+				"reason": {
+					"id": 36770,
+					"name": "2. Agendamento - Visita Showroom - cliente virá à loja",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": null,
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T19:10:45.000000Z",
+			"updated_at": "2023-11-24T19:11:25.000000Z"
+		},
+		{
+			"id": 22769199,
+			"name": "Fernanda soares mendes",
+			"first_interaction_at": "2023-11-24T20:15:48.000000Z",
+			"last_interaction_at": "2023-11-24T20:15:48.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "Pagina de Ofertas",
+			"flow": "web",
+			"contact": {
+				"id": 21987063,
+				"name": null,
+				"email": "fjp1808@hotmail.com",
+				"id_number": null,
+				"phone": "(63) 98456-1200",
+				"cellphone": null,
+				"cellphone_is_valid": null,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58034,
+					"name": "Rethielle | Fiat Bsb"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58034,
+				"name": "Rethielle | Fiat Bsb"
+			},
+			"location": null,
+			"salesman": null,
+			"interests": {
+				"interest_1": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_2": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_3": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "Meta",
+				"medium": "Carrossel",
+				"campaign": "23862074143680442",
+				"term": null,
+				"format": "Projeto-Auto"
+			},
+			"legal_bases": {
+				"processing": {
+					"id": null,
+					"name": null,
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": null
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60269807,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-28T18:14:00.000000Z",
+				"reason": {
+					"id": 36341,
+					"name": "1. Conexão - 2º tentativa",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": "Cliente Primavia, interessado em carro - Modelo: Fastback",
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T18:35:49.000000Z",
+			"updated_at": "2023-11-24T20:15:48.000000Z"
+		},
+		{
+			"id": 22768902,
+			"name": "Jeane Karla",
+			"first_interaction_at": "2023-11-24T20:04:28.000000Z",
+			"last_interaction_at": "2023-11-24T20:04:28.000000Z",
+			"perception": null,
+			"status": "sale_not_performed",
+			"conversion_goal": "Facebook",
+			"flow": "web",
+			"contact": {
+				"id": 21986808,
+				"name": null,
+				"email": "euamovoce6@hotmail.com",
+				"id_number": null,
+				"phone": "+5561984282940",
+				"cellphone": null,
+				"cellphone_is_valid": null,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58034,
+					"name": "Rethielle | Fiat Bsb"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58034,
+				"name": "Rethielle | Fiat Bsb"
+			},
+			"location": {
+				"id": 11923,
+				"name": "01 Fiat | 01 BSB"
+			},
+			"salesman": null,
+			"interests": {
+				"interest_1": {
+					"id": 60905,
+					"name": "VN",
+					"required": null
+				},
+				"interest_2": {
+					"id": 61022,
+					"name": "01 FIAT",
+					"required": null
+				},
+				"interest_3": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "Facebook Lead Ads",
+				"medium": null,
+				"campaign": "BRASILIA - CONVERSAO - GERACAO-DE-LEADS - FIAT - DF - 903856 - DDM - NOVEMBRO - INTERESSE-PCD",
+				"term": null,
+				"format": "Fiat Brasilia - Ofertas de Novembro - PCD"
+			},
+			"legal_bases": {
+				"processing": {
+					"id": null,
+					"name": null,
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": null
+				}
+			},
+			"last_proposal": null,
+			"finalization": {
+				"id": 60269017,
+				"invoice_number": null,
+				"invoice_date": null,
+				"amount": null,
+				"message": null,
+				"order_number": null,
+				"unrealized_sale_reason": {
+					"id": 31440,
+					"name": "1. Conexão - contato errado"
+				}
+			},
+			"last_schedule": null,
+			"message": "Escolha seu modelo: Cronos<br>",
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T18:18:42.000000Z",
+			"updated_at": "2023-11-24T20:04:28.000000Z"
+		},
+		{
+			"id": 22768465,
+			"name": "Glaucia Teixeira",
+			"first_interaction_at": "2023-11-24T20:01:34.000000Z",
+			"last_interaction_at": "2023-11-24T20:01:34.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "Pagina de Ofertas",
+			"flow": "web",
+			"contact": {
+				"id": 21986428,
+				"name": null,
+				"email": "glaucinha1991@hotmail.com",
+				"id_number": null,
+				"phone": "(64) 99606-7808",
+				"cellphone": null,
+				"cellphone_is_valid": null,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58034,
+					"name": "Rethielle | Fiat Bsb"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58034,
+				"name": "Rethielle | Fiat Bsb"
+			},
+			"location": null,
+			"salesman": null,
+			"interests": {
+				"interest_1": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_2": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_3": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "Meta",
+				"medium": "Carrossel",
+				"campaign": "23862074143680442",
+				"term": null,
+				"format": "Projeto-Auto"
+			},
+			"legal_bases": {
+				"processing": {
+					"id": null,
+					"name": null,
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": null
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60268803,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-28T17:01:00.000000Z",
+				"reason": {
+					"id": 36341,
+					"name": "1. Conexão - 2º tentativa",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": "Cliente Primavia, interessado em carro - Modelo: Pulse",
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T17:55:08.000000Z",
+			"updated_at": "2023-11-24T20:01:34.000000Z"
+		},
+		{
+			"id": 22768221,
+			"name": "JARDEL",
+			"first_interaction_at": "2023-11-24T17:41:48.000000Z",
+			"last_interaction_at": "2023-11-24T17:41:48.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "manual",
+			"flow": "web",
+			"contact": {
+				"id": 21986217,
+				"name": null,
+				"email": null,
+				"id_number": null,
+				"phone": null,
+				"cellphone": "61999751868",
+				"cellphone_is_valid": true,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58009,
+					"name": "Isabelle Encantadora | FIAT BSB"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58009,
+				"name": "Isabelle Encantadora | FIAT BSB"
+			},
+			"location": {
+				"id": 11923,
+				"name": "01 Fiat | 01 BSB"
+			},
+			"salesman": null,
+			"interests": {
+				"interest_1": {
+					"id": 60905,
+					"name": "VN",
+					"required": null
+				},
+				"interest_2": {
+					"id": 61022,
+					"name": "01 FIAT",
+					"required": null
+				},
+				"interest_3": {
+					"id": 62536,
+					"name": "Novos - iNDECISÃO CLIENTE",
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "SITE PRIMAVIA",
+				"medium": null,
+				"campaign": null,
+				"term": null,
+				"format": null
+			},
+			"legal_bases": {
+				"processing": {
+					"id": 1,
+					"name": "consent",
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": false
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60256076,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-27T17:41:00.000000Z",
+				"reason": {
+					"id": 36341,
+					"name": "1. Conexão - 2º tentativa",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": null,
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T17:41:13.000000Z",
+			"updated_at": "2023-11-24T17:41:48.000000Z"
+		},
+		{
+			"id": 22767314,
+			"name": "Kelly",
+			"first_interaction_at": "2023-11-24T17:04:45.000000Z",
+			"last_interaction_at": "2023-11-24T17:04:45.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "PhoneTrack",
+			"flow": "web",
+			"contact": {
+				"id": 21985535,
+				"name": null,
+				"email": null,
+				"id_number": null,
+				"phone": "(61) 99304-1517",
+				"cellphone": "(61) 99304-1517",
+				"cellphone_is_valid": true,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58011,
+					"name": "Lara Encantandora | Fiat BSB"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58011,
+				"name": "Lara Encantandora | Fiat BSB"
+			},
+			"location": {
+				"id": 11923,
+				"name": "01 Fiat | 01 BSB"
+			},
+			"salesman": null,
+			"interests": {
+				"interest_1": {
+					"id": 60905,
+					"name": "VN",
+					"required": null
+				},
+				"interest_2": {
+					"id": 61022,
+					"name": "01 FIAT",
+					"required": null
+				},
+				"interest_3": {
+					"id": 60890,
+					"name": "ARGO",
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "PhoneTrack",
+				"medium": "ADS",
+				"campaign": "DDM - Call Tracking",
+				"term": null,
+				"format": "Patrocinado"
+			},
+			"legal_bases": {
+				"processing": {
+					"id": 1,
+					"name": "consent",
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": false
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60253276,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-28T17:04:00.000000Z",
+				"reason": {
+					"id": 36341,
+					"name": "1. Conexão - 2º tentativa",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": null,
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T17:04:07.000000Z",
+			"updated_at": "2023-11-24T17:04:46.000000Z"
+		},
+		{
+			"id": 22767163,
+			"name": "Jéssica Ribeiro da Silva",
+			"first_interaction_at": null,
+			"last_interaction_at": null,
+			"perception": null,
+			"status": "pending",
+			"conversion_goal": "Webmotors",
+			"flow": "web",
+			"contact": {
+				"id": 21985411,
+				"name": null,
+				"email": "jessica.jrs2295@gmail.com",
+				"id_number": null,
+				"phone": "61981510747",
+				"cellphone": null,
+				"cellphone_is_valid": null,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20801,
+					"name": "01 FIAT | 01 BSB (Seminovos)"
+				},
+				"attendant": {
+					"id": 58010,
+					"name": "Geovana Vanessa | FIAT BSB"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58010,
+				"name": "Geovana Vanessa | FIAT BSB"
+			},
+			"location": {
+				"id": 11923,
+				"name": "01 Fiat | 01 BSB"
+			},
+			"salesman": null,
+			"interests": {
+				"interest_1": {
+					"id": null,
+					"name": "Seminovos",
+					"required": null
+				},
+				"interest_2": {
+					"id": null,
+					"name": "VOLKSWAGEN",
+					"required": null
+				},
+				"interest_3": {
+					"id": null,
+					"name": "GOL",
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": "1.0 12V MPI TOTALFLEX 4P MANUAL",
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": "QUH1D58",
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "Webmotors",
+				"medium": null,
+				"campaign": null,
+				"term": null,
+				"format": null
+			},
+			"legal_bases": {
+				"processing": {
+					"id": null,
+					"name": null,
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": null
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": null,
+			"message": "Mensagem: Olá, fiz uma simulação de financiamento para este veículo e estou interessado nele. Por favor entre em contato.<br><br><br><strong>Dados do Anúncio</strong><br>Id: 38110004<br>Marca: VOLKSWAGEN<br>Modelo: GOL<br>Versão: 1.0 12V MPI TOTALFLEX 4P MANUAL<br>Ano do modelo: 2020<br>Ano de fabricação: 2019<br>Valor: 41900<br>Placa: QUH1D58<br>Tipo de Veículo: Usado<br>Blindado: Não<br>",
+			"integration_third_party_id": "8b6607b9e1526c3a391f68989d99e1db",
+			"created_at": "2023-11-24T16:54:41.000000Z",
+			"updated_at": "2023-11-24T16:54:41.000000Z"
+		},
+		{
+			"id": 22767147,
+			"name": "Vanessa",
+			"first_interaction_at": "2023-11-24T19:39:37.000000Z",
+			"last_interaction_at": "2023-11-24T19:39:37.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "Pagina de Ofertas",
+			"flow": "web",
+			"contact": {
+				"id": 21985397,
+				"name": null,
+				"email": "vanessadejesus458@gmail.com",
+				"id_number": null,
+				"phone": "(61) 99246-7868",
+				"cellphone": null,
+				"cellphone_is_valid": null,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58008,
+					"name": "Wesllayne | FIAT BSB"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58008,
+				"name": "Wesllayne | FIAT BSB"
+			},
+			"location": null,
+			"salesman": null,
+			"interests": {
+				"interest_1": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_2": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_3": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "Meta",
+				"medium": "Carrossel",
+				"campaign": "23862074143680442",
+				"term": null,
+				"format": "Projeto-Auto"
+			},
+			"legal_bases": {
+				"processing": {
+					"id": null,
+					"name": null,
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": null
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60267005,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-27T16:38:00.000000Z",
+				"reason": {
+					"id": 36341,
+					"name": "1. Conexão - 2º tentativa",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": "Cliente Primavia, interessado em carro - Modelo: Argo",
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T16:53:39.000000Z",
+			"updated_at": "2023-11-24T19:39:37.000000Z"
+		},
+		{
+			"id": 22766890,
+			"name": "Igor",
+			"first_interaction_at": "2023-11-24T16:39:41.000000Z",
+			"last_interaction_at": "2023-11-24T16:39:41.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "manual",
+			"flow": "web",
+			"contact": {
+				"id": 21985186,
+				"name": null,
+				"email": null,
+				"id_number": null,
+				"phone": "61 8531-4734",
+				"cellphone": "61 8531-4734",
+				"cellphone_is_valid": true,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58011,
+					"name": "Lara Encantandora | Fiat BSB"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58011,
+				"name": "Lara Encantandora | Fiat BSB"
+			},
+			"location": {
+				"id": 11923,
+				"name": "01 Fiat | 01 BSB"
+			},
+			"salesman": null,
+			"interests": {
+				"interest_1": {
+					"id": 60905,
+					"name": "VN",
+					"required": null
+				},
+				"interest_2": {
+					"id": 61022,
+					"name": "01 FIAT",
+					"required": null
+				},
+				"interest_3": {
+					"id": 62536,
+					"name": "Novos - iNDECISÃO CLIENTE",
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "Prospecção",
+				"medium": null,
+				"campaign": null,
+				"term": null,
+				"format": null
+			},
+			"legal_bases": {
+				"processing": {
+					"id": 1,
+					"name": "consent",
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": false
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60251850,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-29T16:39:00.000000Z",
+				"reason": {
+					"id": 36341,
+					"name": "1. Conexão - 2º tentativa",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": null,
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T16:38:59.000000Z",
+			"updated_at": "2023-11-24T16:39:41.000000Z"
+		},
+		{
+			"id": 22766861,
+			"name": "Wesley",
+			"first_interaction_at": "2023-11-24T16:38:20.000000Z",
+			"last_interaction_at": "2023-11-24T16:38:20.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "manual",
+			"flow": "web",
+			"contact": {
+				"id": 21985161,
+				"name": null,
+				"email": null,
+				"id_number": null,
+				"phone": "61 98407-3214",
+				"cellphone": "61 98407-3214",
+				"cellphone_is_valid": true,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58011,
+					"name": "Lara Encantandora | Fiat BSB"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58011,
+				"name": "Lara Encantandora | Fiat BSB"
+			},
+			"location": {
+				"id": 11923,
+				"name": "01 Fiat | 01 BSB"
+			},
+			"salesman": null,
+			"interests": {
+				"interest_1": {
+					"id": 60905,
+					"name": "VN",
+					"required": null
+				},
+				"interest_2": {
+					"id": 61022,
+					"name": "01 FIAT",
+					"required": null
+				},
+				"interest_3": {
+					"id": 62536,
+					"name": "Novos - iNDECISÃO CLIENTE",
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "SITE PRIMAVIA",
+				"medium": null,
+				"campaign": null,
+				"term": null,
+				"format": null
+			},
+			"legal_bases": {
+				"processing": {
+					"id": 1,
+					"name": "consent",
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": false
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60251775,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-28T16:38:00.000000Z",
+				"reason": {
+					"id": 36341,
+					"name": "1. Conexão - 2º tentativa",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": null,
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T16:37:41.000000Z",
+			"updated_at": "2023-11-24T16:38:21.000000Z"
+		},
+		{
+			"id": 22766675,
+			"name": "Mírian lima",
+			"first_interaction_at": "2023-11-24T16:36:37.000000Z",
+			"last_interaction_at": "2023-11-24T16:36:37.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "Pagina de Ofertas",
+			"flow": "web",
+			"contact": {
+				"id": 21985014,
+				"name": null,
+				"email": "mirianlima063@gmail.com",
+				"id_number": null,
+				"phone": "(61) 98250-0893",
+				"cellphone": null,
+				"cellphone_is_valid": null,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58011,
+					"name": "Lara Encantandora | Fiat BSB"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58011,
+				"name": "Lara Encantandora | Fiat BSB"
+			},
+			"location": null,
+			"salesman": null,
+			"interests": {
+				"interest_1": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_2": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_3": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "google ads",
+				"medium": "search",
+				"campaign": "152115746379",
+				"term": null,
+				"format": "projeto-auto"
+			},
+			"legal_bases": {
+				"processing": {
+					"id": null,
+					"name": null,
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": null
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60251698,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-28T16:36:00.000000Z",
+				"reason": {
+					"id": 36341,
+					"name": "1. Conexão - 2º tentativa",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": "Cliente Primavia, interessado em carro - Modelo: Fiorino",
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T16:29:55.000000Z",
+			"updated_at": "2023-11-24T16:36:37.000000Z"
+		},
+		{
+			"id": 22766269,
+			"name": "Luiz",
+			"first_interaction_at": "2023-11-24T16:19:46.000000Z",
+			"last_interaction_at": "2023-11-24T16:19:46.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "manual",
+			"flow": "web",
+			"contact": {
+				"id": 21984642,
+				"name": null,
+				"email": null,
+				"id_number": null,
+				"phone": "31 9984-4906",
+				"cellphone": "31 9984-4906",
+				"cellphone_is_valid": true,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58011,
+					"name": "Lara Encantandora | Fiat BSB"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58011,
+				"name": "Lara Encantandora | Fiat BSB"
+			},
+			"location": {
+				"id": 11923,
+				"name": "01 Fiat | 01 BSB"
+			},
+			"salesman": {
+				"id": 58005,
+				"name": "VU Arthur Gabriel | Fiat BSB"
+			},
+			"interests": {
+				"interest_1": {
+					"id": 60906,
+					"name": "VU",
+					"required": null
+				},
+				"interest_2": {
+					"id": 61022,
+					"name": "01 FIAT",
+					"required": null
+				},
+				"interest_3": {
+					"id": 60902,
+					"name": "SEMINOVOS",
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "WebMotors",
+				"medium": null,
+				"campaign": null,
+				"term": null,
+				"format": null
+			},
+			"legal_bases": {
+				"processing": {
+					"id": 1,
+					"name": "consent",
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": false
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60250840,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-24T18:00:00.000000Z",
+				"reason": {
+					"id": 36770,
+					"name": "2. Agendamento - Visita Showroom - cliente virá à loja",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": null,
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T16:18:23.000000Z",
+			"updated_at": "2023-11-24T16:19:46.000000Z"
+		},
+		{
+			"id": 22766057,
+			"name": "João Vítor",
+			"first_interaction_at": "2023-11-24T16:12:31.000000Z",
+			"last_interaction_at": "2023-11-24T16:12:31.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "manual",
+			"flow": "web",
+			"contact": {
+				"id": 21984443,
+				"name": null,
+				"email": null,
+				"id_number": null,
+				"phone": null,
+				"cellphone": "61981178227",
+				"cellphone_is_valid": true,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58010,
+					"name": "Geovana Vanessa | FIAT BSB"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58010,
+				"name": "Geovana Vanessa | FIAT BSB"
+			},
+			"location": {
+				"id": 11923,
+				"name": "01 Fiat | 01 BSB"
+			},
+			"salesman": null,
+			"interests": {
+				"interest_1": {
+					"id": 60905,
+					"name": "VN",
+					"required": null
+				},
+				"interest_2": {
+					"id": 61022,
+					"name": "01 FIAT",
+					"required": null
+				},
+				"interest_3": {
+					"id": 60898,
+					"name": "STRADA",
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "Prospecção",
+				"medium": null,
+				"campaign": null,
+				"term": null,
+				"format": null
+			},
+			"legal_bases": {
+				"processing": {
+					"id": 1,
+					"name": "consent",
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": false
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60250528,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-27T15:10:00.000000Z",
+				"reason": {
+					"id": 36346,
+					"name": "2. Agendamento - Whatsapp",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": null,
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T16:11:57.000000Z",
+			"updated_at": "2023-11-24T16:12:31.000000Z"
+		},
+		{
+			"id": 22765749,
+			"name": "Rafael",
+			"first_interaction_at": "2023-11-24T15:53:31.000000Z",
+			"last_interaction_at": "2023-11-24T15:53:31.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "manual",
+			"flow": "web",
+			"contact": {
+				"id": 21984179,
+				"name": null,
+				"email": null,
+				"id_number": null,
+				"phone": "6133085036",
+				"cellphone": "6133085036",
+				"cellphone_is_valid": true,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58034,
+					"name": "Rethielle | Fiat Bsb"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58034,
+				"name": "Rethielle | Fiat Bsb"
+			},
+			"location": {
+				"id": 11923,
+				"name": "01 Fiat | 01 BSB"
+			},
+			"salesman": {
+				"id": 58694,
+				"name": "VN Renato Bezerra | Fiat BSB"
+			},
+			"interests": {
+				"interest_1": {
+					"id": 60905,
+					"name": "VN",
+					"required": null
+				},
+				"interest_2": {
+					"id": 61022,
+					"name": "01 FIAT",
+					"required": null
+				},
+				"interest_3": {
+					"id": 62536,
+					"name": "Novos - iNDECISÃO CLIENTE",
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "LIGAÇÃO",
+				"medium": null,
+				"campaign": null,
+				"term": null,
+				"format": null
+			},
+			"legal_bases": {
+				"processing": {
+					"id": 1,
+					"name": "consent",
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": false
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60249736,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-24T17:52:00.000000Z",
+				"reason": {
+					"id": 36770,
+					"name": "2. Agendamento - Visita Showroom - cliente virá à loja",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": null,
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T15:52:52.000000Z",
+			"updated_at": "2023-11-24T15:53:31.000000Z"
+		},
+		{
+			"id": 22765716,
+			"name": "Daniel",
+			"first_interaction_at": "2023-11-24T15:51:43.000000Z",
+			"last_interaction_at": "2023-11-24T15:51:43.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "manual",
+			"flow": "web",
+			"contact": {
+				"id": 21984146,
+				"name": null,
+				"email": null,
+				"id_number": null,
+				"phone": "55 61 9277-6588",
+				"cellphone": "55 61 9277-6588",
+				"cellphone_is_valid": true,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58011,
+					"name": "Lara Encantandora | Fiat BSB"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58011,
+				"name": "Lara Encantandora | Fiat BSB"
+			},
+			"location": {
+				"id": 11923,
+				"name": "01 Fiat | 01 BSB"
+			},
+			"salesman": {
+				"id": 57809,
+				"name": "VD PCD Michel Expedito | Fiat BSB"
+			},
+			"interests": {
+				"interest_1": {
+					"id": 60905,
+					"name": "VN",
+					"required": null
+				},
+				"interest_2": {
+					"id": 61022,
+					"name": "01 FIAT",
+					"required": null
+				},
+				"interest_3": {
+					"id": 62536,
+					"name": "Novos - iNDECISÃO CLIENTE",
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "Prospecção",
+				"medium": null,
+				"campaign": null,
+				"term": null,
+				"format": null
+			},
+			"legal_bases": {
+				"processing": {
+					"id": 1,
+					"name": "consent",
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": false
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60249666,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-29T15:51:00.000000Z",
+				"reason": {
+					"id": 36349,
+					"name": "4. Negociação - atualizar",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": null,
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T15:51:14.000000Z",
+			"updated_at": "2023-11-24T15:51:43.000000Z"
+		},
+		{
+			"id": 22765696,
+			"name": "Valério",
+			"first_interaction_at": "2023-11-24T15:50:18.000000Z",
+			"last_interaction_at": "2023-11-24T15:50:18.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "manual",
+			"flow": "web",
+			"contact": {
+				"id": 21984131,
+				"name": null,
+				"email": null,
+				"id_number": null,
+				"phone": "61 984048402",
+				"cellphone": "61 984048402",
+				"cellphone_is_valid": true,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58034,
+					"name": "Rethielle | Fiat Bsb"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58034,
+				"name": "Rethielle | Fiat Bsb"
+			},
+			"location": {
+				"id": 11923,
+				"name": "01 Fiat | 01 BSB"
+			},
+			"salesman": {
+				"id": 57812,
+				"name": "VU Pedro Warllan | Fiat BSB"
+			},
+			"interests": {
+				"interest_1": {
+					"id": 60906,
+					"name": "VU",
+					"required": null
+				},
+				"interest_2": {
+					"id": 60903,
+					"name": "20 SEMINOVOS",
+					"required": null
+				},
+				"interest_3": {
+					"id": 60902,
+					"name": "SEMINOVOS",
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "OLX",
+				"medium": null,
+				"campaign": null,
+				"term": null,
+				"format": null
+			},
+			"legal_bases": {
+				"processing": {
+					"id": 1,
+					"name": "consent",
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": false
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60249595,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-24T17:49:00.000000Z",
+				"reason": {
+					"id": 36770,
+					"name": "2. Agendamento - Visita Showroom - cliente virá à loja",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": null,
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T15:49:36.000000Z",
+			"updated_at": "2023-11-24T15:50:18.000000Z"
+		},
+		{
+			"id": 22765371,
+			"name": "Ésio Ribeiro",
+			"first_interaction_at": "2023-11-24T16:15:11.000000Z",
+			"last_interaction_at": "2023-11-24T16:15:11.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "Instagram",
+			"flow": "web",
+			"contact": {
+				"id": 21983854,
+				"name": null,
+				"email": "ez.maranhao@gmail.com",
+				"id_number": null,
+				"phone": "+5561982037370",
+				"cellphone": null,
+				"cellphone_is_valid": null,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58010,
+					"name": "Geovana Vanessa | FIAT BSB"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58010,
+				"name": "Geovana Vanessa | FIAT BSB"
+			},
+			"location": {
+				"id": 11923,
+				"name": "01 Fiat | 01 BSB"
+			},
+			"salesman": null,
+			"interests": {
+				"interest_1": {
+					"id": 60905,
+					"name": "VN",
+					"required": null
+				},
+				"interest_2": {
+					"id": 61022,
+					"name": "01 FIAT",
+					"required": null
+				},
+				"interest_3": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "Instagram Lead Ads",
+				"medium": null,
+				"campaign": "BRASILIA - CONVERSAO - GERACAO-DE-LEADS - FIAT - DF - 903856 - DDM - NOVEMBRO - INTERESSE-PCD",
+				"term": null,
+				"format": "Fiat Brasilia - Ofertas de Novembro - PCD"
+			},
+			"legal_bases": {
+				"processing": {
+					"id": null,
+					"name": null,
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": null
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60250622,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-25T16:15:00.000000Z",
+				"reason": {
+					"id": 36341,
+					"name": "1. Conexão - 2º tentativa",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": "Escolha seu modelo: Argo<br>",
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T15:32:30.000000Z",
+			"updated_at": "2023-11-24T16:15:12.000000Z"
+		},
+		{
+			"id": 22765277,
+			"name": "Aleia",
+			"first_interaction_at": "2023-11-24T15:28:30.000000Z",
+			"last_interaction_at": "2023-11-24T15:28:30.000000Z",
+			"perception": "cold",
+			"status": "scheduled",
+			"conversion_goal": "manual",
+			"flow": "web",
+			"contact": {
+				"id": 21983770,
+				"name": null,
+				"email": null,
+				"id_number": null,
+				"phone": "61993191655",
+				"cellphone": "61993191655",
+				"cellphone_is_valid": true,
+				"birthdate": null,
+				"first_sale_at": null,
+				"address": {
+					"address_line1": null,
+					"address_line2": null,
+					"address_number": null,
+					"neighborhood": null,
+					"city": null,
+					"state": null,
+					"country": null,
+					"zipcode": null
+				},
+				"flow": "web",
+				"team": {
+					"id": 20768,
+					"name": "01 FIAT | 01 BSB (Leads)"
+				},
+				"attendant": {
+					"id": 58011,
+					"name": "Lara Encantandora | Fiat BSB"
+				},
+				"custom_key": null,
+				"company": {
+					"position": null,
+					"name": null,
+					"id_number": null,
+					"phone": null,
+					"email": null,
+					"website": null
+				}
+			},
+			"attendant": {
+				"id": 58011,
+				"name": "Lara Encantandora | Fiat BSB"
+			},
+			"location": {
+				"id": 11923,
+				"name": "01 Fiat | 01 BSB"
+			},
+			"salesman": {
+				"id": 57805,
+				"name": "VD Everton Barbosa | Fiat Bsb"
+			},
+			"interests": {
+				"interest_1": {
+					"id": 60905,
+					"name": "VN",
+					"required": null
+				},
+				"interest_2": {
+					"id": 61022,
+					"name": "01 FIAT",
+					"required": null
+				},
+				"interest_3": {
+					"id": 60897,
+					"name": "TORO",
+					"required": null
+				},
+				"interest_4": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_5": {
+					"id": null,
+					"name": null,
+					"required": null
+				},
+				"interest_7": {
+					"id": null,
+					"name": null,
+					"required": null
+				}
+			},
+			"tracking": {
+				"source": "SITE PRIMAVIA",
+				"medium": null,
+				"campaign": null,
+				"term": null,
+				"format": null
+			},
+			"legal_bases": {
+				"processing": {
+					"id": 1,
+					"name": "consent",
+					"opt_in": null
+				},
+				"communication": {
+					"id": null,
+					"name": null,
+					"opt_in": false
+				}
+			},
+			"last_proposal": null,
+			"finalization": null,
+			"last_schedule": {
+				"id": 60248498,
+				"status": "pending",
+				"flow": null,
+				"date": "2023-11-24T20:00:00.000000Z",
+				"reason": {
+					"id": 36770,
+					"name": "2. Agendamento - Visita Showroom - cliente virá à loja",
+					"color": null,
+					"flow": null,
+					"forward": null
+				}
+			},
+			"message": null,
+			"integration_third_party_id": null,
+			"created_at": "2023-11-24T15:27:08.000000Z",
+			"updated_at": "2023-11-24T15:28:30.000000Z"
+		}
+	],
+	"links": {
+		"first": "http://api.followize.com.br/v3/leads?page=1",
+		"last": "http://api.followize.com.br/v3/leads?page=4",
+		"prev": null,
+		"next": "http://api.followize.com.br/v3/leads?page=2"
+	},
+	"meta": {
+		"current_page": 1,
+		"from": 1,
+		"last_page": 4,
+		"links": [
+			{
+				"url": null,
+				"label": "pagination.previous",
+				"active": false
+			},
+			{
+				"url": "http://api.followize.com.br/v3/leads?page=1",
+				"label": "1",
+				"active": true
+			},
+			{
+				"url": "http://api.followize.com.br/v3/leads?page=2",
+				"label": "2",
+				"active": false
+			},
+			{
+				"url": "http://api.followize.com.br/v3/leads?page=3",
+				"label": "3",
+				"active": false
+			},
+			{
+				"url": "http://api.followize.com.br/v3/leads?page=4",
+				"label": "4",
+				"active": false
+			},
+			{
+				"url": "http://api.followize.com.br/v3/leads?page=2",
+				"label": "pagination.next",
+				"active": false
+			}
+		],
+		"path": "http://api.followize.com.br/v3/leads",
+		"per_page": 25,
+		"to": 25,
+		"total": 98
+	}
+}
